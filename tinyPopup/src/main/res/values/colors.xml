@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_normal">#011627</color>
+    <color name="btn_destructive">#D21D1D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="label_2">#67727B</color>
+    <color name="sub_accent">#05A8AA</color>
+</resources>
