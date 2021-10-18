@@ -1,4 +1,6 @@
 # Circular Popup Dialog
+[![](https://jitpack.io/v/hishd/TinyPops.svg)](https://jitpack.io/#hishd/TinyPops)
+
 
 Tiny Popup dialog for android which brings a Single action dialog & a Dual action dialog with a bunch of customizations.
 
