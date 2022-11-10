@@ -1,4 +1,4 @@
-# Circular Popup Dialog
+# Tiny Popup Dialog
 [![](https://jitpack.io/v/hishd/TinyPops.svg)](https://jitpack.io/#hishd/TinyPops)
 
 
